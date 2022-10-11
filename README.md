@@ -4,6 +4,9 @@
 <p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Logo/ScraPlot.png" width="300"/></p>
 
 
+## POSTER
+<p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Poster/WePlotToScrap.png" width="300"/></p>
+
 ## Presentation 
 For the detailed view of our project, [click here](https://docs.google.com/presentation/d/1ScQIiLdh678mbyNnBK3zcxzHWj465ZGI/edit#slide=id.p6)
 
