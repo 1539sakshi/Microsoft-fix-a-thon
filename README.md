@@ -13,6 +13,14 @@ For the video demonstration, [click here]()
 
 
 ## PROBLEMS
+- Ever increasing population adding more waste everyday
+- India generates 62 million tonnes of waste
+- Contamination of  land, water and food
+- Poor segregation of recyclable and non-recyclable waste  
+- Improper disposal of e-waste
+- Lack of Industry experts
+and properly trained employees
+
 
 ## PROJECT APPROACH AND IMPLEMENTATION
 
