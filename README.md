@@ -37,8 +37,8 @@ and properly trained employees
 ## Contributors
 * [Riya]()
 * [Sakshi Singh]()
-* [Pragati]()
-* [Swettha]()
+* [Pragati](https://www.linkedin.com/in/pragati-bhat-47446419a/)
+* [Swettha](https://www.linkedin.com/in/swethaa-kumar-017a001b3/)
 
 
 ## Thanks!
