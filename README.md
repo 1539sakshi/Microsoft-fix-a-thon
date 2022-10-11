@@ -23,6 +23,15 @@ and properly trained employees
 
 
 ## PROJECT APPROACH AND IMPLEMENTATION
+- Installing Microchips in smart bins to monitor if the bin is full or not. 
+- When the bin is full, the sensor signals are read and a route is set up to clear the clutter. 
+- The bing maps API is integrated to our web application which provied the most efficient route. 
+- The users can take picture of the area of concern and send it via our whatsapp bots which are multi-lingual. 
+- Later, these images are sent to the respective people in charge via Azure Cloud Shell and Azure Blob Storage. 
+- Smart Bins segregate recyclable waste using AI based object-recognition and these are sent to recycle plants. 
+- High quality goods are made out of the recyclable waste and put on sale in our app. 
+- The reward points people get while using the app can be redeemed by buying products. 
+- Safe disposal of all toxic(e-waste, medical waste) and non-toxic waste is made sure with the help of gps tracking. 
 
 ## FUNCTIONALITIES
 - [ ]  
@@ -35,10 +44,10 @@ and properly trained employees
 ## FUTURE PLANS
 
 ## Contributors
+* [Pragati](https://www.linkedin.com/in/pragati-bhat-47446419a/)
 * [Riya]()
 * [Sakshi Singh](https://www.linkedin.com/in/1539sakshisingh)
-* [Pragati](https://www.linkedin.com/in/pragati-bhat-47446419a/)
-* [Swettha](https://www.linkedin.com/in/swethaa-kumar-017a001b3/)
+* [Swethaa K](https://www.linkedin.com/in/swethaa-kumar-017a001b3/)
 
 
 ## Thanks!
