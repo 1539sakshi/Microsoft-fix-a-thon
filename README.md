@@ -1,6 +1,6 @@
 # Microsoft-fix-a-thon
 
-## QUARANTEAM : Riya, Pragati, Sakshi, Swethaa
+## ScraPlot
 <p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Logo/Logo.png" width="300"/></p>
 
 
@@ -10,5 +10,16 @@
 
 ## PROJECT APPROACH AND IMPLEMENTATION
 
+## FUNCTIONALITIES
+- [ ]  
+- [ ]  
+- [ ]  
+
+
 ## PROJECT ARCHIETECTURE/DESIGN
 
+## Contributors
+* [Riya]()
+* [Sakshi Singh]()
+* [Pragati]()
+* [Swettha]()
