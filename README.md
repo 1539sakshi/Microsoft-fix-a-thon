@@ -1,14 +1,14 @@
 # Microsoft-fix-a-thon
 
 ## ScraPlot
-<p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Logo/ScraPlot.png" width="300"/></p>
+<p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Logo/ScraPlot.png" width="500"/></p>
 
 
 ## POSTER
-<p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Poster/We%20Plot%20to%20Scrap.png" width="300"/></p>
+<p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Poster/We%20Plot%20to%20Scrap.png" width="500"/></p>
 
 ## UI using Figma
-<p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Figma-UI-UX/Login-SignUp.png" width="300"/></p>
+<p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Figma-UI-UX/Login-SignUp.png" width="500"/></p>
 <p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Figma-UI-UX/HomePage.png" width="500"/></p>
 
 ## Presentation 
