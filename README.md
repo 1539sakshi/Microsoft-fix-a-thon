@@ -59,7 +59,8 @@ and properly trained employees
 
 <p align="center"><img src="Images/Project Architecture/Cloud architecture.jpeg"/></p>
 ## FUTURE PLANS
-
+1. Recycling Plant would be set up in the future.
+2. A commercially viable app would be made for the users.
 ## Contributors
 * [Pragati](https://www.linkedin.com/in/pragati-bhat-47446419a/)
 * [Riya]()
