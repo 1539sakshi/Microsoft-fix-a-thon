@@ -9,7 +9,7 @@
 
 ## UI using Figma
 <p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Figma-UI-UX/Login-SignUp.png" width="300"/></p>
-<p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Figma-UI-UX/HomePage.png" width="300"/></p>
+<p align="center"><img src="https://github.com/1539sakshi/Microsoft-fix-a-thon/blob/main/Images/Figma-UI-UX/HomePage.png" width="500"/></p>
 
 ## Presentation 
 For the detailed view of our project, [click here](https://docs.google.com/presentation/d/1ScQIiLdh678mbyNnBK3zcxzHWj465ZGI/edit#slide=id.p6)
