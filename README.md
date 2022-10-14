@@ -48,7 +48,7 @@ and properly trained employees
 
 ## PROJECT ARCHIETECTURE/DESIGN
 <p align="center"><img src="Images/Project Architecture/Working of sensor.jpeg" width="300"/></p>
-<p align="center"><img src="Images/Project Architecture/Project Flow Diagram.PNG" width="300"/></p>
+<p align="center"><img src="Images/Project Architecture/Project Flow Diagram.PNG"/></p>
 ## FUTURE PLANS
 
 ## Contributors
