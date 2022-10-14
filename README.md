@@ -40,6 +40,9 @@ and properly trained employees
 - The reward points people get while using the app can be redeemed by buying products. 
 - Safe disposal of all toxic(e-waste, medical waste) and non-toxic waste is made sure with the help of gps tracking. 
 
+<p align="center"><img src="Images/Project Architecture/Project Flow Diagram.PNG"/></p>
+
+
 ## FUNCTIONALITIES
 - Website and chatbots in order to assist with waste disposal assistance
 - Active Monitoring via sensors in smart bins
@@ -52,7 +55,6 @@ and properly trained employees
 ## PROJECT ARCHIETECTURE/DESIGN
 <p align="center"><img src="Images/Project Architecture/Working of sensor.jpeg"/></p>
 <p align="center"><img src="Images/Project Architecture/Cloud architecture.jpeg"/></p>
-<p align="center"><img src="Images/Project Architecture/Project Flow Diagram.PNG"/></p>
 ## FUTURE PLANS
 
 ## Contributors
