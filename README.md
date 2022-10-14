@@ -41,13 +41,17 @@ and properly trained employees
 - Safe disposal of all toxic(e-waste, medical waste) and non-toxic waste is made sure with the help of gps tracking. 
 
 ## FUNCTIONALITIES
-- [ ]  
-- [ ]  
-- [ ]  
+- Website and chatbots in order to assist with waste disposal assistance
+- Active Monitoring via sensors in smart bins
+- Minimum distance route finder for waste pickup through ML algorithms
+- Users can request for collection of waste by uploading photo of waste piles
+- AI based object detection for electronic and plastic waste segregration
+- Real time data & reports for online selling of e-waste 
 
 
 ## PROJECT ARCHIETECTURE/DESIGN
-<p align="center"><img src="Images/Project Architecture/Working of sensor.jpeg" width="300"/></p>
+<p align="center"><img src="Images/Project Architecture/Working of sensor.jpeg"/></p>
+<p align="center"><img src="Images/Project Architecture/Cloud architecture.jpeg"/></p>
 <p align="center"><img src="Images/Project Architecture/Project Flow Diagram.PNG"/></p>
 ## FUTURE PLANS
 
