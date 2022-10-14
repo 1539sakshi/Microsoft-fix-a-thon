@@ -54,7 +54,7 @@ and properly trained employees
 
 ## PROJECT ARCHIETECTURE/DESIGN
 <p align="center"><img src="Images/Project Architecture/Working of sensor.jpeg"/></p>
---
+---
 <p align="center"><img src="Images/Project Architecture/Cloud architecture.jpeg"/></p>
 ## FUTURE PLANS
 
